@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 {% for post in site.posts %}
-[{{ post.title }}](./_posts/{{post.url}})
+[{{ post.title }}]({{site.baseurl}}{{post.url}})
 {% endfor %}
 
 [Link to another page](./another-page.html).
