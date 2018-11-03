@@ -4,6 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
+{% for post in site.posts %}
+[{{ post.title }}]({{ post.url }})
+{% endfor %}
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
