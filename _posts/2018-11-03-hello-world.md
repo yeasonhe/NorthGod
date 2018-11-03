@@ -2,9 +2,6 @@
 layout: post
 title: 一些有用的Git命令组合
 ---
-### {{page.title}}
-我的第一篇文章
-> {{page.date|date_to_string}}
 
 # 一些有用的Git命令组合
 ![](http://ww1.sinaimg.cn/large/ee21033aly1fwj4i49ny3j21hc0xc78j.jpg)
