@@ -1,3 +1,9 @@
+---
+layout: post
+title: Level4-Unit1-Part·1-Visiting_a_Friend_1
+author: NorthGod
+tags: 懂你英语
+---
 ### Part I
 Christina is on a two-week vacation.
 This is the first vacation she has had for a long time.
