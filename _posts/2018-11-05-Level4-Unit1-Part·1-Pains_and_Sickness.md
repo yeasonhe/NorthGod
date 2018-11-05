@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Level4-Unit1-Part·1-Pains_and_Sickness.md
+title: Level4-Unit1-Part·1-Pains_and_Sickness
 author: NorthGod
 tags: 懂你英语
 ---
