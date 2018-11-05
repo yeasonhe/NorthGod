@@ -1,3 +1,9 @@
+---
+layout: post
+title: Level4-Unit1-Part·1-Pains_and_Sickness.md
+author: NorthGod
+tags: 懂你英语
+---
 ### PartI
 * Headaches can be very painful and can last for a long time.
 * `If you have a headache your head hurts.`
