@@ -2,7 +2,7 @@
 ---
 layout: post
 title: 菜鸟的正则表达式教程
-author: hemingxing
+author: NorthGod
 tags: 常用命令
 ---
 [@我的微博](https://weibo.com/yeasonhe)
