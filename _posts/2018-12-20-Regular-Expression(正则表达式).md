@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: 一些有用的Git命令组合
+title: 菜鸟的正则表达式教程
 author: hemingxing
 tags: 常用命令
 ---
