@@ -4,7 +4,6 @@ title: Java编程思想
 author: hemingxing
 tags: 疯狂刷书
 ---
-![](http://ww1.sinaimg.cn/large/ee21033aly1fwj4i49ny3j21hc0xc78j.jpg)
 [@我的微博](https://weibo.com/yeasonhe)
 [@个人博客](https://staroflion.github.io/)
 
