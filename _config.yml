@@ -1,3 +1,4 @@
 title: NorthGod
 baseurl: /NorthGod
 theme: jekyll-theme-hacker
+paginate: 5
